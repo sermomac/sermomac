@@ -19,8 +19,8 @@
 
  <h2> 📫 Education :</h2>
  
-- Bachelor of Computer Applications- 78.6%
-- Master of Computer Applications- 82.1%
+- Bachelor of Computer Applications - 78.6%
+- Master of Computer Applications - 82.1%
   
 <h2> Certifications :</h2>
 
