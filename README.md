@@ -16,10 +16,12 @@
 
 - <b>React</b>
   - [Movie APP using React.Js](https://github.com/sermomac/movie-app)
- 
+
+ <h2> 📫 Education :</h2>
+- [Bachelor of Computer Applications- 78.6%]
+- [Master of Computer Applications- 82.1%]
   
 <h2> Certifications :</h2>
-
 - [Java Fullstack](https://imgur.com/a/1a0ScaE)
 - [Android Development]
 
