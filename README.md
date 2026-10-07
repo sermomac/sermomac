@@ -6,6 +6,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
+  - [Facial Recognition Software - LBPH Algorithm](https://github.com/sermomac/facialRecognitionSystem)
   - [DS Python](https://github.com/sermomac/TextEditor)
   - [miniCLIP](https://github.com/sermomac/miniCLIP)
   - [MiniGPT-4 using Python and Shell](https://github.com/sermomac/miniGPT-4)
