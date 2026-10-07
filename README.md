@@ -7,6 +7,9 @@
 
 - <b>Python</b>
   - [DS Python](https://github.com/sermomac/TextEditor)
+  - [miniCLIP](https://github.com/sermomac/miniCLIP)
+  - [MiniGPT-4 using Python and Shell](https://github.com/sermomac/miniGPT-4)
+  - [Artist Discovery Engine](https://github.com/sermomac/artist-recommendation-engine)
 
 - <b>Java</b>
   - [Movie API using JAVA & Sping Boot](https://github.com/sermomac/movie-api)
