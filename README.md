@@ -17,6 +17,9 @@
 
 - <b>React</b>
   - [Movie APP using React.Js](https://github.com/sermomac/movie-app)
+ 
+- <b>Typescript</b>
+  - [Simple To Do List in Typescript](https://github.com/sermomac/simpleToDoList.git)
 
  <h2> 📫 Education :</h2>
  
