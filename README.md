@@ -20,6 +20,9 @@
  
 - <b>Typescript</b>
   - [To Do List Vite + Typescript](https://github.com/sermomac/to-do-list.git)
+ 
+- <b>Golang</b>
+  - [Go Casino Slot Machine](https://github.com/sermomac/slot-machine.git)
 
  <h2> 📫 Education :</h2>
  
