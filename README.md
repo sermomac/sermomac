@@ -19,7 +19,7 @@
   - [Movie APP using React.Js](https://github.com/sermomac/movie-app)
  
 - <b>Typescript</b>
-  - [Simple To Do List in Typescript](https://github.com/sermomac/simpleToDoList.git)
+  - [To Do List Vite + Typescript](https://github.com/sermomac/to-do-list.git)
 
  <h2> 📫 Education :</h2>
  
