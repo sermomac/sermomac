@@ -24,8 +24,9 @@
 - <b>Golang</b>
   - [Go Casino Slot Machine](https://github.com/sermomac/slot-machine.git)
  
- - <b>DBT</b>
+- <b>DBT</b>
   - [MCP Data Series](https://github.com/sermomac/map-data-series.git)
+ 
 
  <h2> 📫 Education :</h2>
  
