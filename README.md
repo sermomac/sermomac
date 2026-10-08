@@ -11,6 +11,7 @@
   - [miniCLIP](https://github.com/sermomac/miniCLIP)
   - [MiniGPT-4 using Python and Shell](https://github.com/sermomac/miniGPT-4)
   - [Artist Discovery Engine](https://github.com/sermomac/artist-recommendation-engine)
+  - [MCP Data Series](https://github.com/sermomac/map-data-series.git)
 
 - <b>Java</b>
   - [Movie API using JAVA & Sping Boot](https://github.com/sermomac/movie-api)
@@ -24,8 +25,7 @@
 - <b>Golang</b>
   - [Go Casino Slot Machine](https://github.com/sermomac/slot-machine.git)
  
-- <b>DBT</b>
-  - [MCP Data Series](https://github.com/sermomac/map-data-series.git)
+ 
  
 
  <h2> 📫 Education :</h2>
