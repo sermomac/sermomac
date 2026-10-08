@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
+- <b>PYTHON</b>
   - [Facial Recognition Software - LBPH Algorithm](https://github.com/sermomac/facialRecognitionSystem)
   - [DS Python](https://github.com/sermomac/TextEditor)
   - [miniCLIP](https://github.com/sermomac/miniCLIP)
@@ -13,16 +13,16 @@
   - [Artist Discovery Engine](https://github.com/sermomac/artist-recommendation-engine)
   - [MCP Data Series](https://github.com/sermomac/map-data-series.git)
 
-- <b>Java</b>
+- <b>JAVA</b>
   - [Movie API using JAVA & Sping Boot](https://github.com/sermomac/movie-api)
 
-- <b>React</b>
+- <b>REACT</b>
   - [Movie APP using React.Js](https://github.com/sermomac/movie-app)
  
-- <b>Typescript</b>
+- <b>TYPESCRIPT</b>
   - [To Do List Vite + Typescript](https://github.com/sermomac/to-do-list.git)
  
-- <b>Golang</b>
+- <b>GOLANG</b>
   - [Go Casino Slot Machine](https://github.com/sermomac/slot-machine.git)
  
  
