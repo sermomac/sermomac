@@ -16,6 +16,7 @@
 - <b>JAVA</b>
   - [Movie API using JAVA & Sping Boot](https://github.com/sermomac/movie-api)
   - [Employee Management System](https://github.com/sermomac/employee-management-system.git)
+  - [Contact Manager](https://github.com/sermomac/contact-manager.git)
 
 - <b>REACT</b>
   - [Movie APP using React.Js](https://github.com/sermomac/movie-app)
