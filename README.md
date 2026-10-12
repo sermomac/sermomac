@@ -40,6 +40,12 @@
 - [Java Fullstack](https://imgur.com/a/1a0ScaE)
 - Android Development
 
+<h2> Languages :</h2>
+   English:    C2  |
+   German:     B2  |
+   Portuguese: Native
+
+  
 <h2>Research papers</h2>
 
 - [Perplexity between humans and AI](https://lnkd.in/p/d5g_Vtb2)
