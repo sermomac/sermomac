@@ -41,6 +41,7 @@
 - Android Development
 
 <h2> Languages :</h2>
+
    English:    C2  |
    German:     B2  |
    Portuguese: Native
