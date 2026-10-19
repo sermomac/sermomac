@@ -33,8 +33,8 @@
 
  <h2> 📫 Education :</h2>
  
-- Bachelor of Computer Applications - 7.86/10
-- Master of Computer Applications - 8.21/10
+- Bachelor of Computer Applications (MCA) - 7.86/10
+- Master of Computer Applications (BCA) - 8.21/10
   
 <h2> Certifications :</h2>
 
