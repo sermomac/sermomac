@@ -29,7 +29,6 @@
   - [Go Casino Slot Machine](https://github.com/sermomac/slot-machine.git)
  
  
- 
 
  <h2> 📫 Education :</h2>
  
