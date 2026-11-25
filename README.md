@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sergio! <br/><a href="https://www.linkedin.com/in/sergiomoisesmacarringue">Software Engineer</a></h1>
 
 <h2>About:</h2>
-<b> Berlin based Software Engineer<!-- building AI/ML systems, Frontend UIs, APIs, backend systems and automated pipelines.--> </b>
+<b> Berlin based Software Engineer with bachelor and master's in computer science!<!-- building AI/ML systems, Frontend UIs, APIs, backend systems and automated pipelines.--> </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
